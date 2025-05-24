@@ -1,0 +1,7 @@
+Blues-cnn
+viridis-EfficientNetB0
+BuPu-ResNet50
+YlGnBu-VGG16
+coolwarm-MobileNetV2
+inferno-Xception
+magma-qcnn
